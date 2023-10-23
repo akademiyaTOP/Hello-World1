@@ -10,5 +10,6 @@ int main()
     std::cout << std::endl;
 
     foo(a);
+    std::cout << "Tvoyo chislo: " << a << std::endl;
 }
 
