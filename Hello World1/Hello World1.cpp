@@ -5,7 +5,7 @@ int main()
 {
     int a;
     std::cin >> a;
-    std::cout << "Hello World!\n";
+    std::cout << "Hallo World!\n";
     std::cout << std::endl;
 
     foo(a);
