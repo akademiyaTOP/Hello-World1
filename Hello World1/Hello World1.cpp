@@ -3,13 +3,13 @@
 
 int main()
 {
-    std::cout << "Pick number: ";
+    
     int a;
     std::cin >> a;
-    std::cout << "Hello World!\n";
-    std::cout << std::endl;
+    std::cout << "Hallo!" << std::endl;
+    
 
     foo(a);
-    std::cout << "Tvoyo chislo: " << a << std::endl;
+    
 }
 
