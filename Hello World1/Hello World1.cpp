@@ -3,6 +3,7 @@
 
 int main()
 {
+    std::cout << "Pick number: ";
     int a;
     std::cin >> a;
     std::cout << "Hallo World!\n";
